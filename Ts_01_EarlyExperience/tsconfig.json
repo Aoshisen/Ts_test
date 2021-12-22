@@ -1,0 +1,10 @@
+
+{
+    "compilerOptions": {
+        
+        "outDir": "./dist",
+        "target": "ES2015",
+        "watch": true
+     },
+"include":["./**/*.ts"]
+}

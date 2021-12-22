@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "target": "ES3",
+        "watch": true,
+        "noImplicitAny": false,
+        "lib":["ES6","DOM"]
+    },
+    "include": ["./**/*.ts"]
+}
